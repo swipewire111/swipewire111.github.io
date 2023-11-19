@@ -2,6 +2,6 @@
 ## math
 [math](https://swipewire111.github.io/math)
 ## Chemistry
-[[chemistry]]
+[chemistry](https://swipewire111.github.io/chemistry)
 ## Physics
-[[physics]]
+[physics](https://swipewire111.github.io/physics)
