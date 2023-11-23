@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b709f2e0e030d58d",
+        "id": "d840fd28053ce7de",
         "type": "tabs",
         "children": [
           {
-            "id": "93df83478e40bfe1",
+            "id": "8d6be112e76dc999",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "Chemistry/Inorganic Chemistry/Inorganic Chemistry.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78cd00c3d00f1b38",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Chemistry/Inorganic Chemistry/Inorganic Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Chemistry/Inorganic Chemistry/Inorganic Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,11 +125,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "Chemistry/Inorganic Chemistry/Inorganic Chemistry.md"
               }
             }
+          },
+          {
+            "id": "ecabd205d94930fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c963cc359e908884",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -144,12 +162,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "93df83478e40bfe1",
+  "active": "8d6be112e76dc999",
   "lastOpenFiles": [
-    "Start.md",
-    "Untitled Kanban.md"
+    "David M. Klein - Organic Chemistry I as a Second Language_ Translating the Basic Concepts-John Wiley and Sons (2007).pdf",
+    "Chemistry/Inorganic Chemistry/Inorganic Chemistry.md",
+    "ARIHANT IE IRODOV NEW EDITION.pdf",
+    "Halliday_Resnick_Walker_-_Fundamentals_of.pdf",
+    "Jonathan Clayden, Nick Greeves, Stuart Warren, Peter Wothers - Organic Chemistry-Oxford University Press, USA (2000).pdf",
+    "Chemistry/Chemistry.md",
+    "Index.md",
+    "Chemistry/Physical Chemistry/Physical Chemistry.md",
+    "Chemistry/Physical Chemistry/Chemical Equilibrium.md",
+    "Chemistry/Physical Chemistry/Surface Chemistry.md",
+    "Mathematics/Sets.md",
+    "Mathematics/Math.md",
+    "Sets.md",
+    "Board.md",
+    "Mathematics/Complex numbers.md",
+    "Chemistry/Organic Chemistry/Organic Chemistry.md",
+    "2023-11-21.md",
+    "Chemistry/Inorganic Chemistry/Periodic Properties.md",
+    "Chemistry/Inorganic Chemistry/Hydrogen.md",
+    "Physics/Mathematical Physics.md",
+    "Chemistry/Physical Chemistry/Chemical Bonding.md",
+    "Chemistry/Organic Chemistry",
+    "Chemistry/Inorganic Chemistry",
+    "Chemistry/Physical Chemistry",
+    "Physics/Wave Optics.md",
+    "Mathematics/Trigonometry.md",
+    "Mathematics",
+    "Chemistry",
+    "Physics/Physics.md",
+    "Physics/Optics.md",
+    "Physics",
+    "Physics/Modern Physics.md",
+    "Physics/Electricity and Magnetism.md",
+    "Physics/Thermal Physics.md",
+    "Physics/Mechanics.md"
   ]
 }
